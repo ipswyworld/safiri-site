@@ -1,0 +1,4 @@
+import{t as e}from"./jsx-runtime.hGNRxWI7.js";var t=e(),n=`2026-10-13`,r=()=>({terms_accepted:!0,terms_version:n});function i({checked:e,onChange:n,extra:r}){return(0,t.jsxs)(`label`,{className:`terms-check`,children:[(0,t.jsx)(`input`,{type:`checkbox`,name:`terms`,required:!0,...n?{checked:!!e,onChange:e=>n(e.target.checked)}:{}}),(0,t.jsxs)(`span`,{children:[r?`${r} `:``,`I accept the`,` `,(0,t.jsx)(`a`,{href:`/terms`,target:`_blank`,rel:`noopener`,children:`Terms of use`}),` `,`and the`,` `,(0,t.jsx)(`a`,{href:`/privacy`,target:`_blank`,rel:`noopener`,children:`Privacy notice`}),`.`]}),(0,t.jsx)(`style`,{children:`
+        .terms-check { display: flex; gap: 12px; align-items: flex-start; font-weight: 400; }
+        .terms-check input { width: 22px; min-height: 22px; height: 22px; margin-top: 2px; flex: none; }
+      `})]})}export{r as n,i as t};

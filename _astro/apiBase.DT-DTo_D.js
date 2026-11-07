@@ -1,0 +1,1 @@
+var e=()=>typeof window>`u`?``:(window.__SAFIRI_API__??``).replace(/\/$/,``),t=()=>e()||`/api`,n=()=>e()?`include`:`same-origin`;export{n,t};

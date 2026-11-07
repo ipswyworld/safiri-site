@@ -1,0 +1,19 @@
+# Safiri
+
+> Safiri is a Kenya travel marketplace. It lists guides, drivers and hosts whose licences have been checked with the body that issued them, and it states what entering a place costs separately from what a guide charges.
+
+Entry fees are set by the park or museum authority (for example the Kenya Wildlife Service), change with the season and are paid at the gate. Safiri shows the figure it has and says who sets it; confirm with the authority before travelling. Guide prices are set by each guide and listed with what each service includes and excludes.
+
+## Key pages
+
+- [Places to go](https://getsafiri.co.ke/places): what is at each place, how long a visit takes, what entry costs.
+- [Park and attraction entry fees](https://getsafiri.co.ke/entry-fees): every entry fee Safiri lists, in one table.
+- [Guides and drivers](https://getsafiri.co.ke/guides): licensed providers, what they charge and what is excluded.
+- [How Safiri works](https://getsafiri.co.ke/how-it-works): how licences are checked and how a booking runs from request to payout.
+- [Questions](https://getsafiri.co.ke/faq): verification, fees, payment, cancellation and refunds.
+- [About Safiri](https://getsafiri.co.ke/about): who publishes the site and how to reach them.
+- [Privacy](https://getsafiri.co.ke/privacy) and [Terms](https://getsafiri.co.ke/terms).
+
+## Contact
+
+See https://getsafiri.co.ke/contact.
