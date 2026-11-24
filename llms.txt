@@ -1,6 +1,6 @@
 # Safiri
 
-> Safiri is a Kenya travel marketplace. It lists guides, drivers and hosts whose licences have been checked with the body that issued them, and it states what entering a place costs separately from what a guide charges.
+> Safiri is a Kenya travel marketplace. It lists guides, drivers and hosts whose licences a person at Safiri has read and checked by hand, and it states what entering a place costs separately from what a guide charges.
 
 Entry fees are set by the park or museum authority (for example the Kenya Wildlife Service), change with the season and are paid at the gate. Safiri shows the figure it has and says who sets it; confirm with the authority before travelling. Guide prices are set by each guide and listed with what each service includes and excludes.
 
