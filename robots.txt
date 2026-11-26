@@ -4,6 +4,7 @@ Disallow: /trip
 Disallow: /pay
 Disallow: /api/
 Disallow: /console/
+Disallow: /deck.pdf
 
 User-agent: OAI-SearchBot
 User-agent: ChatGPT-User
@@ -19,6 +20,7 @@ Disallow: /trip
 Disallow: /pay
 Disallow: /api/
 Disallow: /console/
+Disallow: /deck.pdf
 
 User-agent: GPTBot
 User-agent: ClaudeBot
@@ -31,5 +33,6 @@ Disallow: /trip
 Disallow: /pay
 Disallow: /api/
 Disallow: /console/
+Disallow: /deck.pdf
 
 Sitemap: https://getsafiri.co.ke/sitemap-index.xml
